@@ -5,6 +5,7 @@ class LNO {
   class general {
 
     class unitCompiler {};
-    class registerHelper {};
+    class applyLoadout {};
+    class recruitUnitHoldAction {};
   };
 };
