@@ -2,10 +2,17 @@ class LNO {
   tag = "LNO";
   file = "LNO_Functions";
 
-  class general {
+  class loadouts {
 
     class unitCompiler {};
     class applyLoadout {};
-    class recruitUnitHoldAction {};
+
   };
+
+  class holdActions {
+
+    class recruitUnitHoldAction {};
+
+  };
+
 };
